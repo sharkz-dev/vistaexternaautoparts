@@ -1,4 +1,3 @@
-// src/pages/CatalogPage.js
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   MagnifyingGlassIcon,

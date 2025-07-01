@@ -1,4 +1,3 @@
-// src/components/ProductImage.js
 import React, { useState } from 'react';
 import { getImageUrl } from '../utils/helpers';
 
